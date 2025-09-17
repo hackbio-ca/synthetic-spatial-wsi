@@ -1,6 +1,6 @@
-# demo-project
+# synthetic-spatial-wsi
 
-A brief description of the project. Explain what it does and who it's for.
+Generating spatially resolved synthetic WSI
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
