@@ -9,7 +9,7 @@ Thank you for your interest in contributing to `synthetic-spatial-wsi`! We welco
 2. **Clone your fork**: Clone your forked repository to your local development environment.
 
     ```bash
-    git clone https://github.com/synthetic-spatial-wsi/synthetic-spatial-wsi.git
+    git clone https://github.com/hackbio-ca/synthetic-spatial-wsi.git
     ```
 
 3. **Create a new branch**: Create a new branch for your changes. Use a descriptive branch name that indicates the work you are doing.
